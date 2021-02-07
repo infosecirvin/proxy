@@ -1,4 +1,5 @@
 #!/bin/bash
+#Stephanie's Proxy setup - inside the VM
 #Root Required
 if [[ $EUID -ne 0 ]]; then
    echo "This script must be run as root."

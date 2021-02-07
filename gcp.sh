@@ -1,4 +1,5 @@
 #!/bin/bash
+#Stephanie's Proxy system - GCP
 #Read User Input
 echo "What is the name of the Proxies?"
 read name
